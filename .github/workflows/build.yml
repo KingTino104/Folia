@@ -33,4 +33,4 @@ jobs:
         with:
           name: jars
           path: |
-            build/libs/folia-*.jar
+            build/libs/*.jar
